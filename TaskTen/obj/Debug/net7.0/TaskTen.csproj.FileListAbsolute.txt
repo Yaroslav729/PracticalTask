@@ -1,0 +1,15 @@
+G:\GB\PracticalTask\TaskTen\bin\Debug\net7.0\TaskTen.exe
+G:\GB\PracticalTask\TaskTen\bin\Debug\net7.0\TaskTen.deps.json
+G:\GB\PracticalTask\TaskTen\bin\Debug\net7.0\TaskTen.runtimeconfig.json
+G:\GB\PracticalTask\TaskTen\bin\Debug\net7.0\TaskTen.dll
+G:\GB\PracticalTask\TaskTen\bin\Debug\net7.0\TaskTen.pdb
+G:\GB\PracticalTask\TaskTen\obj\Debug\net7.0\TaskTen.csproj.AssemblyReference.cache
+G:\GB\PracticalTask\TaskTen\obj\Debug\net7.0\TaskTen.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\PracticalTask\TaskTen\obj\Debug\net7.0\TaskTen.AssemblyInfoInputs.cache
+G:\GB\PracticalTask\TaskTen\obj\Debug\net7.0\TaskTen.AssemblyInfo.cs
+G:\GB\PracticalTask\TaskTen\obj\Debug\net7.0\TaskTen.csproj.CoreCompileInputs.cache
+G:\GB\PracticalTask\TaskTen\obj\Debug\net7.0\TaskTen.dll
+G:\GB\PracticalTask\TaskTen\obj\Debug\net7.0\refint\TaskTen.dll
+G:\GB\PracticalTask\TaskTen\obj\Debug\net7.0\TaskTen.pdb
+G:\GB\PracticalTask\TaskTen\obj\Debug\net7.0\TaskTen.genruntimeconfig.cache
+G:\GB\PracticalTask\TaskTen\obj\Debug\net7.0\ref\TaskTen.dll
