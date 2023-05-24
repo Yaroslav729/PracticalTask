@@ -1,0 +1,15 @@
+G:\GB\PracticalTask\TaskThirteen\bin\Debug\net7.0\TaskThirteen.exe
+G:\GB\PracticalTask\TaskThirteen\bin\Debug\net7.0\TaskThirteen.deps.json
+G:\GB\PracticalTask\TaskThirteen\bin\Debug\net7.0\TaskThirteen.runtimeconfig.json
+G:\GB\PracticalTask\TaskThirteen\bin\Debug\net7.0\TaskThirteen.dll
+G:\GB\PracticalTask\TaskThirteen\bin\Debug\net7.0\TaskThirteen.pdb
+G:\GB\PracticalTask\TaskThirteen\obj\Debug\net7.0\TaskThirteen.csproj.AssemblyReference.cache
+G:\GB\PracticalTask\TaskThirteen\obj\Debug\net7.0\TaskThirteen.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\PracticalTask\TaskThirteen\obj\Debug\net7.0\TaskThirteen.AssemblyInfoInputs.cache
+G:\GB\PracticalTask\TaskThirteen\obj\Debug\net7.0\TaskThirteen.AssemblyInfo.cs
+G:\GB\PracticalTask\TaskThirteen\obj\Debug\net7.0\TaskThirteen.csproj.CoreCompileInputs.cache
+G:\GB\PracticalTask\TaskThirteen\obj\Debug\net7.0\TaskThirteen.dll
+G:\GB\PracticalTask\TaskThirteen\obj\Debug\net7.0\refint\TaskThirteen.dll
+G:\GB\PracticalTask\TaskThirteen\obj\Debug\net7.0\TaskThirteen.pdb
+G:\GB\PracticalTask\TaskThirteen\obj\Debug\net7.0\TaskThirteen.genruntimeconfig.cache
+G:\GB\PracticalTask\TaskThirteen\obj\Debug\net7.0\ref\TaskThirteen.dll
