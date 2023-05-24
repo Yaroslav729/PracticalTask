@@ -1,0 +1,15 @@
+G:\GB\PracticalTask\TaskFifteen\bin\Debug\net7.0\TaskFifteen.exe
+G:\GB\PracticalTask\TaskFifteen\bin\Debug\net7.0\TaskFifteen.deps.json
+G:\GB\PracticalTask\TaskFifteen\bin\Debug\net7.0\TaskFifteen.runtimeconfig.json
+G:\GB\PracticalTask\TaskFifteen\bin\Debug\net7.0\TaskFifteen.dll
+G:\GB\PracticalTask\TaskFifteen\bin\Debug\net7.0\TaskFifteen.pdb
+G:\GB\PracticalTask\TaskFifteen\obj\Debug\net7.0\TaskFifteen.csproj.AssemblyReference.cache
+G:\GB\PracticalTask\TaskFifteen\obj\Debug\net7.0\TaskFifteen.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\PracticalTask\TaskFifteen\obj\Debug\net7.0\TaskFifteen.AssemblyInfoInputs.cache
+G:\GB\PracticalTask\TaskFifteen\obj\Debug\net7.0\TaskFifteen.AssemblyInfo.cs
+G:\GB\PracticalTask\TaskFifteen\obj\Debug\net7.0\TaskFifteen.csproj.CoreCompileInputs.cache
+G:\GB\PracticalTask\TaskFifteen\obj\Debug\net7.0\TaskFifteen.dll
+G:\GB\PracticalTask\TaskFifteen\obj\Debug\net7.0\refint\TaskFifteen.dll
+G:\GB\PracticalTask\TaskFifteen\obj\Debug\net7.0\TaskFifteen.pdb
+G:\GB\PracticalTask\TaskFifteen\obj\Debug\net7.0\TaskFifteen.genruntimeconfig.cache
+G:\GB\PracticalTask\TaskFifteen\obj\Debug\net7.0\ref\TaskFifteen.dll
